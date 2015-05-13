@@ -25,17 +25,16 @@
     这里你可以输入一段代码
 
 ### 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧
+
     public class HelloWorld {
-
-      /**
+     /**
       * @param args
-   */
-   public static void main(String[] args) {
-   System.out.println("HelloWorld!");
-
-   }
-
+      */
+     public static void main(String[] args) {
+     System.out.println("HelloWorld!");
+      }
     }
+    
 ### 链接
 1.[点击这里你可以链接到www.baidu.com](http://www.baidu.com)
 
