@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : 王恒的帖子
-#tagline: Site Tagline
+tagline: Site Tagline
 author :
   name : wangheng
   email : wujiwh@gmail.com
@@ -30,8 +30,8 @@ production_url : http://wujiwh.github.io
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 #
-#JB :
-#  version : 0.3.0
+JB :
+  version : 0.3.0
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
