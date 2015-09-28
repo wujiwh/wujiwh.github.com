@@ -8,12 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 王恒的帖子
+title : wangheng's pages
 tagline: Site Tagline
 author :
   name : wangheng
   email : wujiwh@gmail.com
-  github : https://github.com/wujiwh
+  github : wujiwh
   twitter : wujiwh
   #feedburner : feedname
 

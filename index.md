@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 介绍
+title: my pages
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-
 
 
 <ul class="posts">
