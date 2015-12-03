@@ -15,7 +15,7 @@ tagline: 咱不是卖茶叶的...
       			{{ post.date | date:"%Y" }}
       			</div>
       		</div> 
-		{{ post.content  | | split:'<!--break-->' | first }}
+		{{ post.content  | | split:'<!--more-->' | first }}
 	<div class = "read_more">
 		<a class="fa fa-link" href="{{ BASE_PATH }}{{ post.url }}">  查看全文&hellip;</a>
 	</div>
