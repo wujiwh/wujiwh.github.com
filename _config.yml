@@ -12,7 +12,7 @@ pygments: true
 title : 绿茶山庄
 tagline: Site Tagline
 author :
-  name : wangheng
+  name : WangHeng
   email : wujiwh@gmail.com
   github : wujiwh
   twitter : wujiwh
@@ -74,7 +74,7 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
-  atom_path : /atom.xml
+  #atom_path : /atom.xml
   rss_path : /rss.xml
 
   # Settings for comments helper
