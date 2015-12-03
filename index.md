@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 绿茶山庄
-tagline: 这，真心不是卖茶叶的...
+tagline: 咱不是卖茶叶的...
 ---
 {% include JB/setup %}
 
