@@ -5,9 +5,13 @@ header: Pages
 group: navigation
 ---
 {% include JB/setup %}
+<div class="card">
 
-<h2>All Pages</h2>
-<ul>
-{% assign pages_list = site.pages %}
-{% include JB/pages_list %}
-</ul>
+
+	<h2>所有文章</h2>
+	<ul>
+	{% assign pages_list = site.pages %}
+	{% include JB/pages_list %}
+	</ul>
+
+</div>
